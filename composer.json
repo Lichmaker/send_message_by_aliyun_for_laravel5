@@ -9,6 +9,7 @@
     ],
 	"require": {},
 	"license": "Apache License 2.0",
+	"minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {
 			"Lichmaker\\MessagesSender\\": "src/"
