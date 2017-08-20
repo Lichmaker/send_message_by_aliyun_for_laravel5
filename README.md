@@ -1,14 +1,14 @@
 # SendMessage_by_Aliyun_for_Laravel5
 use Aliyun SDK to send messages for Laravel 5
 
-###安装  
+### 安装  
 在终端输入以下命令进行安装
 
 ```shell
 composer require lichmaker/send_message_by_aliyun_for_laravel5 dev-master
 ```
 
-###配置
+### 配置
 在`config/app.php`中的相应位置，添加以下代码：
 
 ```php
@@ -27,7 +27,7 @@ composer require lichmaker/send_message_by_aliyun_for_laravel5 dev-master
   ],
 ```
 
-在.env文件中，添加阿里云的accesskeyID和accesskeySECRET
+在`.env`文件中，添加阿里云的accesskeyID和accesskeySECRET
 
 ```
 ALIYUN_ACCESSKEYID=(填入阿里云账户accesskeyID)
@@ -35,7 +35,7 @@ ALIYUN_ACCESSKEYSECRET=(填入阿里云账户accesskeySECRET)
 
 ```
 
-###使用方法
+### 使用方法
 
 1、使用前请先前往阿里云官网开通短信发送服务，获取短信模板代码和短信签名。
 
