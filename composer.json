@@ -1,0 +1,17 @@
+{
+	"name": "Lichmaker/SendMessage_by_Aliyun_for_Laravel5",
+	"description": "use Aliyun SDK to send messages for Laravel 5",
+	"authors": [
+        {
+            "name": "Lichmaker",
+            "email": "lich.wu2014@gmail.com"
+        }
+    ],
+	"require": {},
+	"license": "Apache License 2.0",
+	"autoload": {
+		"psr-4": {
+			"Lichmaker\\MessagesSender\\": "src/"
+		}
+	}
+}
