@@ -3,7 +3,7 @@
 	"description": "use Aliyun SDK to send messages for Laravel 5",
 	"authors": [
         {
-            "name": "Lichmaker",
+            "name": "lichmaker",
             "email": "lich.wu2014@gmail.com"
         }
     ],
