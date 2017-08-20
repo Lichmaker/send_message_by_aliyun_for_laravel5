@@ -1,5 +1,5 @@
 {
-	"name": "lichmaker/SendMessage_by_Aliyun_for_Laravel5",
+	"name": "lichmaker/send-message_by_aliyun_for_laravel5",
 	"description": "use Aliyun SDK to send messages for Laravel 5",
 	"authors": [
         {
