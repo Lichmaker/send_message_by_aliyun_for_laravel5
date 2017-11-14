@@ -7,7 +7,6 @@ use Lichmaker\MessagesSender\Core\DefaultAcsClient;
 use Lichmaker\MessagesSender\Api\Sms\Request\V20170525\SendSmsRequest;
 use Lichmaker\MessagesSender\Api\Sms\Request\V20170525\QuerySendDetailsRequest;
 
-// 加载区域结点配置
 
 
 /**
